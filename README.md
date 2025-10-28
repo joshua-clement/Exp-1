@@ -1,4 +1,4 @@
-![UseCaseDiagram1](https://github.com/user-attachments/assets/02b8cb78-3b7b-4e7e-be67-5d5cd12d2ac8)# Exp-1 ATM & BANKING SYSTEM
+# Exp-1 ATM & BANKING SYSTEM
 
 # AIM:
 To study the problem statement and SRS of an ATM System and represent its architecture using UML diagrams.
